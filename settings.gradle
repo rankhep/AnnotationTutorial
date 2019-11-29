@@ -1,0 +1,2 @@
+include ':app', ':annotaion', ':annotation_processor'
+rootProject.name='AnnotaionTutorial'
